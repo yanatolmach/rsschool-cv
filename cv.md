@@ -40,3 +40,11 @@ These are the languages I started learning
 - [Redmine](https://www.redmine.org/)
 - Windows 7 OS
 - [Windows 10 OS](https://www.microsoft.com/ru-ru/software-download/windows10)
+
+## Courses
+
+At the moment I am studying the following courses
+
+* [English for beginners](https://www.udemy.com/course/anglijskij-yazyk/)
+* [JavaScript for beginners](https://www.udemy.com/course/javascript_full/)
+

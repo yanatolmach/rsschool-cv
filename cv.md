@@ -11,7 +11,7 @@
 
 ## Summary
 
-I have been working in technical support since 2017. I like working in the field of **information technology**, so I want to get training and become a **front-end developer**. Thanks to Your course, my goal will be achieved. I am hard-working and responsible person.
+I have been working in technical support since 2017. I like working in the field of **information technology**, so I want to get training and become a **front-end developer**. Thanks to Your course, my goal will be achieved. I'm a hard-working and responsible person.
 
 ## Skills
 
@@ -43,7 +43,7 @@ These are the languages I started learning
 
 ## Courses
 
-At the moment I am studying the following courses
+At the moment I'm a studying the following courses:
 
 * [English for beginners](https://www.udemy.com/course/anglijskij-yazyk/)
 * [JavaScript for beginners](https://www.udemy.com/course/javascript_full/)
@@ -55,4 +55,3 @@ English language level: `A2`
 ## Interests
 
 I like to explore and try something that has not been done. I love draw :sunrise: and running :runner: in my spare time.
-

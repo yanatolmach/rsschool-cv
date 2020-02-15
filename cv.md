@@ -1,6 +1,6 @@
 # Tolmacheva Yana
 
-## Junior Developer
+## Junior Front-end Developer
 
 ## Contacts
 

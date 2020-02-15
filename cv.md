@@ -48,3 +48,11 @@ At the moment I am studying the following courses
 * [English for beginners](https://www.udemy.com/course/anglijskij-yazyk/)
 * [JavaScript for beginners](https://www.udemy.com/course/javascript_full/)
 
+## Additional information
+
+English language level: `A2`
+
+## Interests
+
+I like to explore and try something that has not been done. I love draw :sunrise: and running :runner: in my spare time.
+

@@ -54,4 +54,4 @@ English language level: `A2`
 
 ## Interests
 
-I like to explore and try something that has not been done. I love draw :sunrise: and running :runner: in my spare time.
+I like to explore and try something that has not been done. I love draw and running in my spare time.
